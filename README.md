@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
- SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT mdmfverpmepvmb
+
 
 # Header 1
 ## Header 2
@@ -24,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](preds.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
