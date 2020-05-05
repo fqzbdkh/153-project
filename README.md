@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages SHASHANK EDIT
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/fqzbdkh/153-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -10,6 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+ SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT SHASHANK EDIT
 
 # Header 1
 ## Header 2
