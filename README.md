@@ -11,13 +11,11 @@ The linear model -  plotted in red - with the log-transformed data is shown in f
 ![png](3a1.png)
 
 However, the residuals of the linear model were not completely stationary, so we decided to further model the residuals to get a stationary process. After looking at the auto-correlations (ACF)  and the partial correlation coefficients (PACF) of the residuals, we decided to model them as an auto-regressive process of lag 1: AR(1). The graphs below in figure 2 shows residuals of the model’s linear fit after it has been modeled as an auto-regressive process of lag 1. The ACF of the residuals of the AR(1) process (not to be confused with the residuals of the linear fit) shows no significant auto-correlations. This shows that an AR(1) process is a good model for the residuals of the linear fit. The high p-values of the Ljung-Box statistic also confirm the validity of the model. [Insert graph here 3b.png]
-![](https://github.com/fqzbdkh/153-project/blob/master/3a1.png)
+![png](3b.png)
 
 
 Our final prediction is a combination of the predictions of the linear model and the predictions for the residuals of the linear model. The sum of these two predictions gives us the predicted value for the Log of Stock Price. We take its exponential to the predicted Stock Price. Our predictions, in red, are plotted with the original data. [Insert graph here preds.png]
-```markdown
-![image](https://github.com/fqzbdkh/153-project/blob/master/3a1.png)
-```
+![png](preds.png)
  
 ## Conclusions and interpretations: 
 Based on the predictions our model produced, the stock price for Mediocre Social Network Apps Incorporated is predicted to continually decrease in line with general trends. Those holding stocks at Mediocre Social Network Apps Incorporated should consider selling their stocks before it declines further.
